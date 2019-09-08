@@ -14,4 +14,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Writing Commits: https://udacity.github.io/git-styleguide/
+
+Writing Markdowns:
+https://guides.github.com/features/mastering-markdown/
