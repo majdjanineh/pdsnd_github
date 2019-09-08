@@ -5,7 +5,7 @@ September 8, 2019
 Bikeshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project is used to analyze data of bike usage in Chicago, New York City and Washington. It starts by asking questions to the user to filter required data.
 
 ### Files used
 Include the files used
