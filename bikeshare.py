@@ -1,5 +1,5 @@
 import time #This module provides various time-related functions.
-import pandas as pd 
+import pandas as pd #Open source library for data structures and data analysis tools
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
